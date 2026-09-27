@@ -1,0 +1,26 @@
+[
+  {
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access",
+    "description": "Adversaries may use brute force techniques to gain access to accounts."
+  },
+  {
+    "technique_id": "T1566",
+    "technique_name": "Phishing",
+    "tactic": "Initial Access",
+    "description": "Adversaries may use phishing techniques to gain access to systems or credentials."
+  },
+  {
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "tactic": "Execution",
+    "description": "Adversaries may abuse command and scripting interpreters to execute commands or scripts."
+  },
+  {
+    "technique_id": "T1071",
+    "technique_name": "Application Layer Protocol",
+    "tactic": "Command and Control",
+    "description": "Adversaries may use application layer protocols for command and control communication."
+  }
+]

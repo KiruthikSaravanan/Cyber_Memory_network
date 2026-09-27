@@ -1,0 +1,2 @@
+ALTER TABLE alerts
+    ALTER COLUMN incident_id DROP NOT NULL;

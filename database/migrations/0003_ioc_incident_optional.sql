@@ -1,0 +1,2 @@
+ALTER TABLE iocs
+    ALTER COLUMN incident_id DROP NOT NULL;

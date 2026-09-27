@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-08-30T10:00:00",
+    "username": "user1",
+    "source_ip": "192.168.1.10",
+    "event_type": "login_success"
+  },
+  {
+    "timestamp": "2026-08-30T10:05:00",
+    "username": "admin",
+    "source_ip": "192.168.1.100",
+    "event_type": "login_failed"
+  },
+  {
+    "timestamp": "2026-08-30T10:05:10",
+    "username": "admin",
+    "source_ip": "192.168.1.100",
+    "event_type": "login_failed"
+  },
+  {
+    "timestamp": "2026-08-30T10:05:20",
+    "username": "admin",
+    "source_ip": "192.168.1.100",
+    "event_type": "login_failed"
+  },
+  {
+    "timestamp": "2026-08-30T10:05:30",
+    "username": "admin",
+    "source_ip": "192.168.1.100",
+    "event_type": "login_failed"
+  },
+  {
+    "timestamp": "2026-08-30T10:05:40",
+    "username": "admin",
+    "source_ip": "192.168.1.100",
+    "event_type": "login_failed"
+  }
+]
